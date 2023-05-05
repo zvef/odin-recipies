@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    background-color: black;
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    font-family: monospace;
+    font-size: larger;
+}
+
+.link-list {
+    background-color: aqua;
+    color: blueviolet;
+    font-size: larger;
+    font-family: monospace;
+}
