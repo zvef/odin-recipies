@@ -13,8 +13,17 @@ h2 {
 }
 
 .link-list {
-    background-color: aqua;
+    border: 1px;
     color: blueviolet;
     font-size: larger;
     font-family: monospace;
+    display: flex;
+}
+
+.item {
+    border: 1px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    flex: 1;
 }
