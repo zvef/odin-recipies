@@ -1,4 +1,5 @@
 .title {
+    text-decoration: underline;
     text-align: center;
     font-family: monospace;
     font-size: x-large;
@@ -11,18 +12,18 @@ h2 {
 }
 
 .link-list {
+    margin: 20px;
+    background-color: aqua;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
     border: 1px;
     color: blueviolet;
     font-size: larger;
     font-family: monospace;
-    display: flex;
-}
-
-.item {
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
-    border: 1px;
-    margin: auto;
-    width: auto;
-    height: auto;
-    flex: 1;
 }
