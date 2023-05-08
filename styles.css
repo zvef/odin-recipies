@@ -26,14 +26,3 @@ h2 {
     height: auto;
     flex: 1;
 }
-
-.pics {
-    width: auto;
-    height: auto;
-    display: inline-block;
-    align-self: center;
-}
-
-div {
-    align-items: center;
-}
